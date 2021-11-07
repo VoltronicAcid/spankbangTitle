@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         Reddit Gif Sound
 // @namespace    https://github.com/VoltronicAcid/
+// @downloadURL  https://github.com/VoltronicAcid/spankbangTitle/raw/master/spankbangTitle.user.js
 // @version      0.0.1
 // @description  Remove "Watch" from the title of videos on spankbang.com
 // @author       VoltronicAcid
