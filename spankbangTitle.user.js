@@ -8,3 +8,5 @@
 // @match        https://spankbang.com/*/video/*
 // @match        https://*.spankbang.com/*/video/*
 // ==/UserScript==
+
+document.title = document.title.substring(6);
