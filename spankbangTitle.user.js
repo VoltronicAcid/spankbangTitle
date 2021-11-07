@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Reddit Gif Sound
+// @name         SpankBang Title
 // @namespace    https://github.com/VoltronicAcid/
 // @downloadURL  https://github.com/VoltronicAcid/spankbangTitle/raw/master/spankbangTitle.user.js
 // @version      0.0.1
